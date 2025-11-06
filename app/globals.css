@@ -1,0 +1,8 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; font-family: ui-sans-serif, system-ui, sans-serif; background: #0b1020; color: #e7ecff; }
+a { color: #8ab4ff; text-decoration: none; }
+label { display: block; margin: 8px 0 4px; }
+input, textarea, select, button { width: 100%; padding: 10px 12px; border-radius: 8px; border: 1px solid #2b3a55; background: #121a33; color: #e7ecff; }
+button { cursor: pointer; border: 1px solid #41558a; background: linear-gradient(180deg,#1c2852,#152048); }
+button:hover { filter: brightness(1.1); }
+.card { background: #0e1630; border: 1px solid #1b2647; border-radius: 12px; padding: 16px; }
